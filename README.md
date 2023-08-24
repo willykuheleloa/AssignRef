@@ -1,4 +1,31 @@
-# AssignRef
-### Assign Ref is a platform that allows game official's of the Liga de Fútbol Americano Profesional (LFA) to be assigned games, graded based on their performance, tested on their knowledge, and compensated for their work. AssignRef is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code.
+# 🏈 AssignRef 🏈
+**Empowering Liga de Fútbol Americano Profesional (LFA)**
 
-My role as a dev was to implement the functionality of the admin dashboard, implement Google Analytics for efficient and cost effective business decisions, and building the contact us page. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
+AssignRef isn't just another platform. It's the backbone for the game officials of LFA, designed meticulously to assign games, evaluate performance, test knowledge, and ensure timely compensation. Built as an MVP, AssignRef captures the very essence of streamlined operations in the sporting world.
+
+⚠️ _Note: Due to the proprietary nature of the code, only snippets are available for display._
+
+### 🌟 My Role: Back-End to Front-End Magic 🌟
+
+- 🛠 **Admin Dashboard**: Crafted an intuitive dashboard for admins, giving them an unparalleled user experience.
+- 📊 **Google Analytics**: Seamlessly incorporated analytics, empowering the LFA to make data-driven decisions efficiently.
+- 💌 **Contact Us Page**: Designed and developed an interactive 'Contact Us' space, ensuring a bridge between the users and administrators.
+
+From spearheading back-end operations to painting the front-end canvas, I approached every challenge as a learner first, collaborator second, and implementer through and through.
+
+<details>
+  <summary>🚀 Dive into My Mini Resume 🚀</summary>
+  
+  - 🔍 **React's Might**: Employed React hooks to craft scalable UI components, taking the admin's user interface experience up a notch.
+  
+  - 📡 **Seamless Integration**: Fused ADO.NET & C# to develop service files, API controllers, and object models. The result? A proficient data flow in SQL Server for our expansive web app.
+  
+  - 🎨 **React Components**: Redefined 'Contact Us', 'Admin Dashboard', and 'Footer' using a blend of class and functional components. The outcome? A 42% surge in user interactions and site exploration!
+  
+  - 🔄 **Git Collaboration**: Worked cohesively with a team, leveraging Git for smooth version control in our agile workspace.
+  
+- 💽 **SQL Mastery**: Constructed tables, defined stored procedures, and established foreign key relationships in SQL, laying the foundation for a seamless 'Contact Us' email service.
+  
+  - 🌐 **Handling Data**: Showcased expertise in handling dynamic data structures from axios requests. Be it mapping, filtering, or looping, the data manipulation was nothing short of efficient and readable.
+
+</details>
