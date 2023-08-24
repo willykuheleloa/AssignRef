@@ -1,0 +1,13 @@
+.ga-spinner-size {
+  width: 72px;
+  height: 72px;
+}
+.ga-sm-graph-ht {
+  height: 300px;
+  max-height: 300px;
+}
+.dashboard-font {
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
