@@ -5,6 +5,9 @@ AssignRef isn't just another platform. It's the backbone for the game officials 
 
 ⚠️ _Note: Due to the proprietary nature of the code, only snippets are available for display._
 
+🔒 **Database Content Disclaimer**: Due to limited access permissions post-project, I'm unable to present direct SQL stored procedures, tables, and associated database materials. Nevertheless, I remain eager to delve into my methodologies and design decisions upon inquiry.
+
+
 ### 🌟 My Role: Back-End to Front-End Magic 🌟
 
 - 🛠 **Admin Dashboard**: Crafted an intuitive dashboard for admins, giving them an unparalleled user experience.
